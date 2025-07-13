@@ -16,7 +16,7 @@ This project sets up a Laravel 12 backend and React 18 frontend running together
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/talhaaydn/ucl_simulator.git
 ```
 ### 2. Build and start the Docker environment
 
