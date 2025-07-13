@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Manchester City",
+    "strength": 94,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_48x48.png"
+  },
+  {
+    "name": "RB Leipzig",
+    "strength": 84,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_48x48.png"
+  },
+  {
+    "name": "Red Star Belgrade",
+    "strength": 75,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/i26ntB7bZFvS6GkKj_gGcQ_48x48.png"
+  },
+  {
+    "name": "Young Boys",
+    "strength": 76,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/XL7qUB8QiLkk4w8K3jAMBg_48x48.png"
+  },
+  {
+    "name": "Barcelona",
+    "strength": 91,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_48x48.png"
+  },
+  {
+    "name": "Porto",
+    "strength": 84,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_48x48.png"
+  },
+  {
+    "name": "Shakhtar Donetsk",
+    "strength": 78,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/3rx1dndeeE1gb97w6et-GA_48x48.png"
+  },
+  {
+    "name": "Royal Antwerp",
+    "strength": 74,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/j11mldrHALx7763baZcpDA_48x48.png"
+  },
+  {
+    "name": "Real Madrid",
+    "strength": 93,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_48x48.png"
+  },
+  {
+    "name": "Napoli",
+    "strength": 87,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_48x48.png"
+  },
+  {
+    "name": "Braga",
+    "strength": 77,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/1orTeFljffloKztScEN2RA_48x48.png"
+  },
+  {
+    "name": "Union Berlin",
+    "strength": 78,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_48x48.png"
+  },
+  {
+    "name": "Bayern Munich",
+    "strength": 92,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_48x48.png"
+  },
+  {
+    "name": "Copenhagen",
+    "strength": 75,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/FjlPNK4kZUDzQp5-E3PAJg_48x48.png"
+  },
+  {
+    "name": "Galatasaray",
+    "strength": 80,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/TWjoccvTU4JXZJZ3aW3cVg_48x48.png"
+  },
+  {
+    "name": "Manchester United",
+    "strength": 86,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_48x48.png"
+  },
+  {
+    "name": "Arsenal",
+    "strength": 91,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_48x48.png"
+  },
+  {
+    "name": "PSV Eindhoven",
+    "strength": 82,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/FylTPR72JXIGFzqwQocSAQ_48x48.png"
+  },
+  {
+    "name": "Lens",
+    "strength": 79,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/TUvwItKazVFpgThEhhlN1Q_48x48.png"
+  },
+  {
+    "name": "Sevilla",
+    "strength": 83,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_48x48.png"
+  },
+  {
+    "name": "Atletico Madrid",
+    "strength": 89,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/pEqmA7CL-VRo4Llq3rwIPA_48x48.png"
+  },
+  {
+    "name": "Lazio",
+    "strength": 84,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_48x48.png"
+  },
+  {
+    "name": "Feyenoord",
+    "strength": 81,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/36g41WN3WdjCRsSFiurazw_48x48.png"
+  },
+  {
+    "name": "Celtic",
+    "strength": 77,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/2d1R7XIFALAHj2A9ECBJeA_48x48.png"
+  },
+  {
+    "name": "Borussia Dortmund",
+    "strength": 88,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_48x48.png"
+  },
+  {
+    "name": "PSG",
+    "strength": 91,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_48x48.png"
+  },
+  {
+    "name": "Milan",
+    "strength": 86,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_48x48.png"
+  },
+  {
+    "name": "Newcastle United",
+    "strength": 85,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/96CcNNQ0AYDAbssP0V9LuQ_48x48.png"
+  },
+  {
+    "name": "Benfica",
+    "strength": 85,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/nFwABZ-4n_A3BGXT9A7Adg_48x48.png"
+  },
+  {
+    "name": "Inter Milan",
+    "strength": 90,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_48x48.png"
+  },
+  {
+    "name": "Salzburg",
+    "strength": 79,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/vQhr4NoE_4Yg1IhUZvbRNw_48x48.png"
+  },
+  {
+    "name": "Real Sociedad",
+    "strength": 84,
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/w8tb1aeBfVZIj9tZXf7eZg_48x48.png"
+  }
+]
